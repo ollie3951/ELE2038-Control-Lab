@@ -1,2 +1,1 @@
-# ELE2038-Control-Lab
-Inverted Pendulum Controller Design
+Assignment submission for the ELE2038 inverted pendulum lab.
